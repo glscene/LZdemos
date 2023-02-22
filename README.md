@@ -1,2 +1,2 @@
-# ExampleL
-Examples for using GLScene in Lazarus
+# SamplesL
+Samples for using GLScene in Lazarus and FreePascal
