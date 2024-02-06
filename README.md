@@ -1,2 +1,2 @@
 # ArenaLCL
-Samples for using GLScene in Lazarus and FreePascal
+The Lazarus and FreePascal samples of GLScene
